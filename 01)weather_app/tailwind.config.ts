@@ -21,7 +21,7 @@ const config = {
     },
     extend: {
       backgroundImage: {
-        mycolor: " linear-gradient(to bottom, #e0f7fa, #b2ebf2);",
+        
       },
       colors: {
         bgcard:"#f7f7f7",

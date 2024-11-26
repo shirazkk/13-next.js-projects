@@ -1,9 +1,10 @@
-import WeatherWidget from "@/components/weather-widget";
+import WeatherApp from "@/components/weather-widget";
+
 
 export default function Home() {
   return (
     <div>
-      <WeatherWidget />
+      <WeatherApp/>
     </div>
   );
 }
