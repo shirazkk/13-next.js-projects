@@ -96,14 +96,14 @@ const Countdown_Timer = () => {
           <h1 className="text-left">Countdown Timer</h1>
         </div>
         {/* Input and set button container */}
-        <div className="flex items-center mb-6">
+        <div className="flex flex-col sm:flex-row  gap-3 items-center mb-6">
           <Input
             type="number"
             id="duration"
             placeholder="Enter duration in seconds"
             value={duration}
             onChange={handleDurationChange}
-            className="placeholder:text-white placeholder:font-semibold flex-1 mr-4 p-4 rounded-lg bg-gray-700 text-white shadow-md focus:outline-none focus:ring-2 focus:ring-pink-500 transition-all"
+            className="placeholder:text-white placeholder:font-semibold flex-1  p-4 rounded-lg bg-gray-700 text-white shadow-md focus:outline-none focus:ring-2 focus:ring-pink-500 transition-all"
           />
           <Button
             onClick={handleSetDuration}
