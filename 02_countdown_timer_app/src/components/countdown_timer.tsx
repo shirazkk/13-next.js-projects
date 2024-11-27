@@ -91,9 +91,9 @@ const Countdown_Timer = () => {
       {/* Timer box container */}
       <div className="bg-gradient-to-t from-gray-800 to-gray-900 shadow-lg rounded-lg py-8 px-4 sm:px-8 w-full max-w-lg transform transition-all duration-500 ease-in-out">
         {/* Title of the countdown timer */}
-        <div className="text-2xl sm:text-3xl flex justify-between sm:justify-center gap-3 items-center  font-semibold mb-6 text-white tracking-wide">
+        <div className="text-2xl sm:text-3xl flex justify-evenly sm:justify-center gap-3 items-center  font-semibold mb-6 text-white tracking-wide">
           <Clock size={36} color="#4F46E5" className="animate-spin-slow" />
-          <h1 className="text-left">Countdown Timer</h1>
+          <h1 className="text-center">Countdown Timer</h1>
         </div>
         {/* Input and set button container */}
         <div className="flex flex-col sm:flex-row  gap-3 items-center mb-6">
