@@ -1,9 +1,9 @@
 
 ---
 
-# 30 Days 30 Projects  
+# 13 Next.js Projects  
 
-Welcome to the **30 Days, 30 Projects** repository! 🚀 This project showcases a series of diverse and creative applications built with **Next.js**, completed over 30 days. Each project focuses on implementing cutting-edge features, modern design, and seamless user experience.  
+Welcome to the **13 Next.js Projects** repository! 🚀 This project showcases a series of diverse and creative applications built with **Next.js**. Each project focuses on implementing cutting-edge features, modern design, and seamless user experience.  
 
 ## 🔧 Technologies Used  
 
@@ -15,7 +15,7 @@ Welcome to the **30 Days, 30 Projects** repository! 🚀 This project showcases 
 
 ## ✨ Key Features  
 
-- 30 unique projects demonstrating various aspects of web development.  
+- 13 unique projects demonstrating various aspects of web development.  
 - Elegant and responsive designs with **Tailwind CSS**.  
 - Interactive and animated user experiences using **Framer Motion**.  
 - Modular, reusable, and accessible components with **Shadcn**.  
@@ -39,23 +39,6 @@ Welcome to the **30 Days, 30 Projects** repository! 🚀 This project showcases 
 | 11  | BMI Calculator             | Calculate Body Mass Index with user input.      |  
 | 12  | Unit Converter             | Convert between different units.                |  
 | 13  | HTML Previewer             | Live preview of HTML code.                      |  
-| 14  | Pomodoro Timer             | Manage time with the Pomodoro technique.        |  
-| 15  | Expense Tracker            | Track your daily expenses.                      |  
-| 16  | Movie Search               | Search for movies using an API.                 |  
-| 17  | Meme Generator             | Create custom memes with text.                  |  
-| 18  | Currency Converter         | Convert between currencies.                     |  
-| 19  | GitHub Profile Viewer      | Fetch and display GitHub user profiles.         |  
-| 20  | Notes App                  | Take and save personal notes.                   |  
-| 21  | Recipe Search              | Search for recipes using ingredients.           |  
-| 22  | Word Counter               | Count words and characters in text.             |  
-| 23  | Image Slider               | Display an image carousel.                      |  
-| 24  | Quiz App                   | Build a quiz application with scores.           |  
-| 25  | Stopwatch                  | Track elapsed time with a stopwatch.            |  
-| 26  | Snake Game                 | A classic snake game implementation.            |  
-| 27  | URL Shortener              | Shorten long URLs into compact links.           |  
-| 28  | To-Do List                 | Manage tasks in a simple to-do list app.        |  
-| 29  | Random User Generator      | Generate random user profiles.                  |  
-| 30  | Audio Player               | Play and control audio files.                   |  
 
 ---
 
@@ -63,8 +46,8 @@ Welcome to the **30 Days, 30 Projects** repository! 🚀 This project showcases 
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/shirazkk/30_days_30_projects.git
-   cd 30_days_30_projects  
+   git clone https://github.com/shirazkk/13-next.js-projects
+   cd  13 Next.js Projects    
    ```  
 
 2. Install dependencies:  
